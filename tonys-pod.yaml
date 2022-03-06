@@ -1,0 +1,8 @@
+
+apiVersion: V1
+kind: Pod
+metadata:
+  name: webapp
+  labe: dev
+spec:
+  container:
